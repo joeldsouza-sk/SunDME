@@ -1,5 +1,0 @@
-# Public discovery rules take effect only when the site is publicly accessible.
-User-agent: *
-Allow: /
-
-Sitemap: https://sundme.sunknowledge-6550.chatgpt.site/sitemap.xml
